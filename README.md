@@ -10,7 +10,7 @@ THE MODEL IS AN RNN-RECURRENT NEURAL NETWORK AND AIMS TO PREDICT HPI - HOUSE PRI
 
 PROJECT RELEVANCE
  Governments, real estate investors, and banks rely on accurate HPI forecasts for decisions on lending, investment, and policy-making. A multivariate LSTM can provide a data-driven, forward-looking estimate.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PROJECT 2- Keystroke Logger Using Synthetically created keystroke data 
 A keystroke logger, or keylogger, is a software or hardware tool that records the keys a user types on a keyboard, often without their knowledge. It captures input in real time, storing details such as typed text, login credentials, or communication content. 
 
@@ -20,3 +20,12 @@ After capturing and loading the keystroke data, I used data preprocessing to cle
 REAL WORLD SIGNIFICANCE
 
 By analyzing how individuals type—such as typing speed, hold time, and key transition delays—this technology can be used to create behavioral profiles that help distinguish between users. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PROJECT 3 - Counterfeit Currency Detection -  using Convolutional Neural Network 
+Counterfeit currency detection is the process of identifying fake money designed to imitate legitimate currency. It plays a vital role in protecting national economies, businesses, and consumers from financial fraud
+
+in this project , gathereing the data was the most critical and challenging aspect, as I needed thousands of pictures of genuine and counterfeit bills. This is not only hard to find but also, counterfeit bills being illegal are typically difficult to obtain. 
+To find genuine banknotes, I downloaded roughly 100 photos of real currency and using data augmentation , I created thousands of copies of these photos by applying simple transformations in python . 
+As for the counterfeit money dataset, I edited the photos of genuine banknotes, by changing contrast, saturation and blurring out parts of the note’s most important features such as the seal 
+
+Then, I created a multi layered CNN using tensorflow that takes in these photos , understands patterns in each training set and is now able to make accurate classifications. The dataset for this project has been stored on my drive. 
