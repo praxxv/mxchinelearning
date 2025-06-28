@@ -33,3 +33,20 @@ Supports Banks and Retailers
 Scalable and Fast
 Adapts to Sophisticated Fakes
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PROJECT 4- WEBSITE BROCHURE CREATER USING LLM/TRANSFORMER**
+This is my very first project using transformer architecture. In this project I have created an AI agent that creates a brochure for a company when provided with its wikipedia page.
+The project was my introduction to Generative AI
+**REAL WORLD SIGNIFICANCE**
+Brochures are used by every company regardless of scale or purpose. A GenAI produced company brochure aims at provide concise summary of a company's working and objectives for simple yet effective advertising
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PROJECT 5- AI RESUME SHORTLISTER AGENT**
+This project aims to automate the process of resume shortlisting for recruiters. It can seamlessly scan multiple resumes and rank which resume is best for the job. The agent also is able to 
+explain the ranking it provides and point out which ones should be shortlisted and which to be rejected.
+**REAL WORLD SIGNIFICANCE**
+The project can easily automate resume shortlisting - a process that requires tireless effort especially during the company's mass hiring in which they may recieve thousands of resumes.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PROJECT 6- BOOK RECOMENDATION AGENT**
+This is my first project in the feild of semantics and introduction systems. Recomendation systems are central to many industries that operate online - from news, shopping , entertainment etc.
+This project is a recomendation agent that would recomend books to a user with a given input query which can be anything from a book name to a book's vague description. 
+**REAL WORLD SIGNIFICANCE**
+Several companies such as Netflix, Amazon,Flipkart, 
