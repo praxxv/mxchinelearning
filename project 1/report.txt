@@ -1,5 +1,0 @@
-This is the first project I have made for my portfolio. At the start of this project i had no experience whatsover in building any ML project. 
-The project did serve as a stepping stone for many further, cutting edge projects I would go on to build. The model is an RNN-recurrent neural network and aims 
-to predict hpi - house price index using time series data. 
-The dataset was obtained from the Texas A&M Website and consisted of three columns - date, hpi , and numsold. The date column was used to create a time series model. The hpi column was the target variable
-and numsold is the number of houses in 1000s sold that year. I did go on to modify the dataset as I believed that the 
