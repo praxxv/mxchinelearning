@@ -1,0 +1,7 @@
+This has been my most prestigious project so far.It is a CNN that detects counterfeit banknotes. Currency counterfeiting has been a topic of interest to me for a while, this prompted me to create a project 
+that could classify a banknote as real or fake. until now I had only worked with textual data but this was my introduction to image data as well. It was in this project that i saw the true power of 
+deep learning. 
+The project has two datasets stored and populated in drive. First I took a few photos of genuine banknotes from the internet and applied data augmentation to create transformations of these images to create
+  thousands of copies (5000 total approximately). 
+I then applied photo editing to some of the genuine photos to create counterfeits and applied image augmentation with the same transormations on these edited photos to create a dataset of approximately 5000
+photos for the fake dataset. These were then fed to the CNN and resulted in an accurate model that is able to classify banknotes as real or genuine.
