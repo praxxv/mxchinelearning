@@ -1,0 +1,5 @@
+Resume shortlising is a cumbersome procedure for every company especially during placement season during which companies recieve 1000s of resumes. Selecting which resume is appropriate for the job is 
+a time consuming procedure. This project aims to automate this procedure. The agent takes in multiple resumes stored in a text file and is able to rank them based on how fit they are for a job of an 
+AI engineer. The agent is able to provide reasoning for this ranking and identify and mention the strengths and weaknesses of each candidate.
+
+Resume SHortlising Agents can be used in any company and is not limited to any one feild alone. This agent aims to automate this task which can be used in any industry.
