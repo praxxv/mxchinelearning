@@ -1,0 +1,4 @@
+Fake news is becoming an increasingly common threat. With the use of GenAI, it is becoming increasingly easier to create convincing news articles that are fake. The agent I have created is trained 
+on a news article dataset with labels - fake and real via a huggingface frontier model and is easily and accurtely able to classify an article as fake or real. This classification is fed to gpt 4o mini which 
+generates a brief response to a user on why the said model is fake or real. Through the project, a user just needs to paste a news article into the gradio interface after which the agent classifies the article as 
+fake or real and provides a brief reasoning. 
