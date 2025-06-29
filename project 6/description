@@ -1,0 +1,5 @@
+Recomendation systems are used in a variety of different industries from entertainment to shopping. This project is a book recomendation agent that is trained on a dataset which it also uses as its database
+from which it is able to fetch recomendations based on the query typed. The query could be anything from a specific book anme to a vague description. The agent multiple relevant books matching the query. 
+The agent is first trained using a HUggingFace frontier model for book similarity search and then uses gpt 4o mini to retrieve the relevant books.
+
+Several companies like Netflix ,  Amazon, Spotify, FlipKart use recomendation systems. This project aims to create a simple yet effective recomendation agent.
