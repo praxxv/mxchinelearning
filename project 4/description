@@ -1,0 +1,5 @@
+This was the first AI Agent that I have built. This project is what introduced me to transformers and LLMs. It is an agent whose task is to take data from a company's wikipedia page and generate a smart 
+brochure for the company. In todays world, advertising plays an important role for any company and buisness. The project aims to automate this advertising process and make it more accessable and less 
+  time consuming for companies. 
+
+In the real world, every company relies heavily on advertising and this project aims to automate this project using GenAI foundations.
