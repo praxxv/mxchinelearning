@@ -1,1 +1,5 @@
-
+so this was my first ever AI project . The model is an LSTM and aims at predicting hpi (house price index). The dataset was obtained from Texas A&M website and consisted of 3 columns - date, hpi, numsold
+(number of houses sold in 1000s). The columns inflation rate, interest rate and gdp growth rate were added later on to create a multivariate LSTM instead of the traditional LSTM that relies only on time series
+data. 
+The model is hilghly accurate and uses a batch size of 12 months. The initial difference in actual and predicted values corresponds to the first 12 months in the initial learning phase of the LSTM before which 
+there is no data available. The model is able to work very well after that. 
