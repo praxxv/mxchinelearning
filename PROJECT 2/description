@@ -1,0 +1,8 @@
+Keystroke data such as hold time(the duration someone holds down a key while typing) and flight time(the difference between releasing one key and pressing the next) are unique biometric 
+  characteristics to individuals. In this 
+project, I have captured mine and my moms keystroke data to create a dataset using a python code. Then I went on to create a classification model that classifies keystroke data corresponding to me (label 1)
+and my mom (label 0). The model involves several traditional models such as KNN, SVM, logistic regression, random forrest and a deep learning model using ANN as well.
+Random forrest was proved to be the best classifier with 78% accuracy with ANN being the lowest at 66%.
+
+  The following project has a large scope in the feild of biometrics and cybersecurity as keystroke data can be used as a distinctive security feature.
+  
