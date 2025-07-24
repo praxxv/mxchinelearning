@@ -1,0 +1,3 @@
+The following project is an automated invoice genereator using GenAI for a fictional taxi company. The project creates an invoice for a customer based on given details like pickup location, drop location,
+  calculates the distance between these locations, also calculates fare. For fare calculation, a New York taxi fares dataset was used which the model uses Linear Regression for fare calculation.
+these details are fed into an LLM to generate a response invoice based on trip details in PDF format and also logs these details into a csv file.
